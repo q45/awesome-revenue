@@ -158,6 +158,9 @@ Let's work on it here (fork) and when we made significant changes we can ping Al
 
 * Indirect Licensing - ex. Apple Volume Purchasing
 
+* ***Custom Server Licensing (via Amazon DevPay)***
+
+
 ## Data
 
 * User data - ex. BlueKai
