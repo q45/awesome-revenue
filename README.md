@@ -202,3 +202,10 @@ Let's work on it here (fork) and when we made significant changes we can ping Al
 * DLC - (Downloadable Content)  - ex. Call of Duty
 
 * Ad Supported - ex - addictinggames.co
+
+## MOAR
+
+* http://digitalenterprise.org/models/models.html
+* http://thenextweb.com/entrepreneur/2011/05/25/the-9-types-of-online-business-models-which-one-do-you-use/
+* http://book.personalmba.com/12-standard-forms-of-value/
+* source: https://news.ycombinator.com/item?id=4924647
