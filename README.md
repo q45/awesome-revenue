@@ -4,6 +4,14 @@ awesome-revenue
 This amazing list is from here: https://hackpad.com/Web-And-Mobile-Revenue-Models-final-EgXuEtSibE7
 Let's work on it here (fork) and when we made significant changes we can ping Alex and Igor with a patch.
 
+## Funding and Crowd Investing
+
+* https://www.kickstarter.com/
+
+* https://www.indiegogo.com/
+
+* https://wefunder.me/
+
 ## Advertising
 
 * Display Ads - ex. Yahoo!
